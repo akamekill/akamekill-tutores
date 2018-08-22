@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "nombre": "Post 1" },
+    { "id": 1, "Nombre": "Post 1" },
     { "id": 2, "Identificacion": "Post 2" },
     { "id": 3, "Estudios": "Post 3" },
     { "id": 4, "Correo": "Post 4" },
