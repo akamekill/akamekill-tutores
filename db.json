@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "Alfredo Jarma Orozco": "Post 1" },
-    { "id": 2, "Hermes Aramendiz Tatis": "Post 2" },
-    { "id": 3, "Omar Castillo Nuñez": "Post 3" },
-    { "id": 4, "Jose Marrugo Negrete": "Post 4" },
-    { "id": 5, "Gilmar Santafe Patiño": "Post 5" }
+    { "id": 1, "nombre": "Post 1" },
+    { "id": 2, "Identificacion": "Post 2" },
+    { "id": 3, "Estudios": "Post 3" },
+    { "id": 4, "Correo": "Post 4" },
+    { "id": 5, "Area Investigacion": "Post 5" }
   ],
   "profile": {
     "name": "typicode"
